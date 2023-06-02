@@ -7,3 +7,6 @@ String
 Concatenation
 boucle for
 Vector
+Fonction
+void
+passage d'arguments par copie et par reference
